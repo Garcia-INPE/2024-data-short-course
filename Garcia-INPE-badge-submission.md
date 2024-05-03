@@ -20,5 +20,6 @@ Portfolio posts:
 
 Extra:
 
+* [Garcia-INPE's Professional Organization portfolio](https://ai-sismom.github.io/)
 * [Garcia-INPE's How-to guide to produce GitHub Portfolio Pages](https://github.com/Garcia-INPE/Tutorials/blob/main/Tut-GitHubPages.md)
 * [Garcia-INPE's How-to guide to install PEP 8 in VS Code](https://github.com/Garcia-INPE/Tutorials/blob/main/Tut-PEP8_in_VSCode.md)
