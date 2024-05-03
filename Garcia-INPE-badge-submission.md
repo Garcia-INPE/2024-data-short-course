@@ -19,3 +19,6 @@ Portfolio posts:
 * [Garcia-INPE's Vegetation notebook](https://Garcia-INPE.github.io/notebooks/02-vegetation.html)
 
 Extra:
+
+* [Garcia-INPE's How-to guide to produce GitHub Portfolio Pages](https://github.com/Garcia-INPE/Tutorials/blob/main/Tut-GitHubPages.md)
+* [Garcia-INPE's How-to guide to install PEP 8 in VS Code](https://github.com/Garcia-INPE/Tutorials/blob/main/Tut-PEP8_in_VSCode.md)
