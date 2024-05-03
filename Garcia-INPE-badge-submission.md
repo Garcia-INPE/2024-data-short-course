@@ -23,3 +23,4 @@ Extra:
 * [Garcia-INPE's Professional Organization portfolio](https://ai-sismom.github.io/)
 * [Garcia-INPE's How-to guide to produce GitHub Portfolio Pages](https://github.com/Garcia-INPE/Tutorials/blob/main/Tut-GitHubPages.md)
 * [Garcia-INPE's How-to guide to install PEP 8 in VS Code](https://github.com/Garcia-INPE/Tutorials/blob/main/Tut-PEP8_in_VSCode.md)
+* [Garcia-INPE's How-to guide to make an HTML Map with GeoJSON in Python](https://github.com/Garcia-INPE/Tutorials/main/Tut-HTML-Map_With_GeoJSON.py)
